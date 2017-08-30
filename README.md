@@ -23,6 +23,11 @@ sudo apt-get install php-xml
 
 composer
 
+SQLite
+
+sudo apt-get install php-sqlite3
+
+
 
 
 Installing
@@ -46,6 +51,10 @@ Built With
 Silex - The web framework used
 
 Composer - Dependency Management
+
+Twig - Php template engine
+
+Doctrine DBAL - Database connection
 
 
 
