@@ -23,11 +23,6 @@ sudo apt-get install php-xml
 
 composer
 
-SQLite
-
-sudo apt-get install php-sqlite3
-
-
 
 
 Installing
@@ -44,12 +39,6 @@ And then you need to install composer packages in your project folder.
 
 composer install
 
-Running the tests
-
-You can run the tests by this command:
-
-vendor/bin/phpunit tests
-
 Built With
 
 
@@ -57,12 +46,6 @@ Built With
 Silex - The web framework used
 
 Composer - Dependency Management
-
-Twig - Php template engine
-
-Doctrine DBAL - Database connection
-
-PHPUnit - PHP testing framework
 
 
 
